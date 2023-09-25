@@ -1,19 +1,3 @@
-/**
- * const numbers= [34,87,56,28,76];
- * const number = numbers.find(function(number,index){
-   console.log(index)
-   if (number===56)
-   return number
-});
-
-console.log(number);
-
-
-const number2= numbers.find((number)=>number===87);
-console.log(number2);
- */
-
-
 const record = [
     { year: "2015", result: "W"},
     { year: "2014", result: "N/A"},
